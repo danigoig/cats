@@ -1,2 +1,2 @@
 # cats
-First code. Making tests
+First project. Making tests
